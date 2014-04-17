@@ -3,3 +3,6 @@
 *.mkv
 *.avi
 *.flv
+
+# SubsFactory project files
+*.sfp
